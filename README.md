@@ -12,16 +12,25 @@ Root the Uprising is an old-school RPG, featuring top-down pixel art inspired by
 
 ## Screenshots
 
-![Character Art](/images/character_art.png)
+![Character Art](/images/4.png)
+
+
+
 *Character Art: Meet the main character, Emma, as she prepares to embark on her journey.*
 
-![Gameplay Screenshot](/images/gameplay_screenshot.png)
+
+![Gameplay Screenshot](/images/2.png)
+
+
+
 *Screenshot: Experience the immersive pixel art world of Root the Uprising, filled with secrets and mysteries to discover.*
 
-![Rough Sketch](/images/rough_sketch.png)
-*Rough Sketch: Get a glimpse of the early development process, showcasing the initial concept art and design ideas.*
 
-![Title Screen](/images/title_screen.png)
+
+
+![Title Screen](/images/3.png)
+
+
 *Title Screen: Start your adventure with Root the Uprising, presented in a captivating title screen that sets the tone for the game.*
 
 
