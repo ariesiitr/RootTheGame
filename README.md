@@ -12,7 +12,7 @@ Root the Uprising is an old-school RPG, featuring top-down pixel art inspired by
 
 ## Screenshots
 
-![Character Art](/images/4.png)
+![Character Art](/images/5.png)
 
 
 
